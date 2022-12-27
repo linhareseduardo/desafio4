@@ -1,0 +1,15 @@
+table{
+    color: white;
+}
+
+th.moda{
+    background-color:#BB86FC;
+}
+
+th.casa{
+    background-color: #00C4B4;
+}
+
+tr{
+    background-color: #424250;
+}
